@@ -20,6 +20,6 @@
   <project path="kernel/xiaomi/sky-kernel" name="device_xiaomi_sky-kernel.git" remote="dev" revision="lineage-20.0" clone-depth="1" />
   
   <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/sky" name="vendor_xiaomi_sky.git" remote="acex88" revision="13" clone-depth="1" />
+  <project path="vendor/xiaomi/sky" name="miju12/vendor_xiaomi_sky.git" remote="hub" revision="lineage-20.0" clone-depth="1" />
   
   </manifest>
