@@ -21,5 +21,7 @@
   
   <!-- Vendor Trees -->
   <project path="vendor/xiaomi/sky" name="miju12/vendor_xiaomi_sky.git" remote="hub" revision="lineage-20.0" clone-depth="1" />
-  
+
+  <remove-project name="hardware_qcom-caf_common" />    
+        
   </manifest>
