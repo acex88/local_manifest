@@ -23,5 +23,5 @@
   <project path="vendor/xiaomi/sky" name="miju12/vendor_xiaomi_sky.git" remote="hub" revision="lineage-20.0" clone-depth="1" />
 
   <remove-project name="hardware_qcom-caf_common" />    
-        
+  <project path="hardware/qcom-caf/sm8450" name="hardware_qcom-caf_common.git" remote="acex88" revision="13" clone-depth="1" /> 
   </manifest>
