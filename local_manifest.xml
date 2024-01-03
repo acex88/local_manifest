@@ -4,22 +4,20 @@
 
 <remote name="hub"
         fetch="https://github.com" />
-<remote name="dev"
-        fetch="https://github.com/sm4450-development" />
 <remote name="clang"  
         fetch="https://gitlab.com/ImSurajxD"/>
 <remote name="acex88"
          fetch="https://github.com/acex88" />
-<remote name="pos"
-         fetch="https://github.com/PixelOS-Devices" />
+<remote name="droidx"
+         fetch="" />
         
   <!-- Device Trees -->
-  <project path="device/xiaomi/sky" name="device_xiaomi_sky.git" remote="pos" revision="fourteen" clone-depth="1" />
+  <project path="device/xiaomi/sky" name="device_xiaomi_sky.git" remote="droidx" revision="14" />
   
   <!-- Kernel Trees-->
-  <project path="device/xiaomi/sky-kernel" name="device_xiaomi_sky-kernel.git" remote="pos" revision="fourteen" clone-depth="1" />
+  <project path="device/xiaomi/sky-kernel" name="device_xiaomi_sky-kernel.git" remote="droidx" revision="14" />
   
   <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/sky" name="vendor_xiaomi_sky.git" remote="pos" revision="fourteen" clone-depth="1" />
+  <project path="vendor/xiaomi/sky" name="vendor_xiaomi_sky.git" remote="droidx" revision="14" />
 
   </manifest>
