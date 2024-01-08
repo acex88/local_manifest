@@ -12,12 +12,12 @@
          fetch="https://github.com/DroidX-UI-Devices" />
         
   <!-- Device Trees -->
-  <project path="device/xiaomi/sky" name="device_xiaomi_sky.git" remote="droidx" revision="14" />
+  <project path="device/xiaomi/sky" name="device_xiaomi_sky.git" remote="dxui" revision="14" />
   
   <!-- Kernel Trees-->
-  <project path="device/xiaomi/sky-kernel" name="device_xiaomi_sky-kernel.git" remote="droidx" revision="14" />
+  <project path="device/xiaomi/sky-kernel" name="device_xiaomi_sky-kernel.git" remote="dxui" revision="14" />
   
   <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/sky" name="vendor_xiaomi_sky.git" remote="droidx" revision="14" />
+  <project path="vendor/xiaomi/sky" name="vendor_xiaomi_sky.git" remote="dxui" revision="14" />
 
   </manifest>
