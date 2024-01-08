@@ -9,7 +9,7 @@
 <remote name="acex88"
          fetch="https://github.com/acex88" />
 <remote name="droidx"
-         fetch="" />
+         fetch="https://github.com/DroidX-UI-Devices" />
         
   <!-- Device Trees -->
   <project path="device/xiaomi/sky" name="device_xiaomi_sky.git" remote="droidx" revision="14" />
